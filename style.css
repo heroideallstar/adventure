@@ -12,3 +12,9 @@ button{
     background-color: gray;
     font-family: "Cutive Mono", monospace;
 }
+.passo{
+    display: none;
+}
+.passo.ativo{
+    display: block;
+}
